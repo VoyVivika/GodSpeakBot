@@ -1,4 +1,4 @@
-Consider this Public Domain like TempleOS, I really do not care what you use this in.
+This is Public Domain.
 
 I'm the Creator of the GodSpeakBot Twitter Account (https://twitter.com/GodSpeakBot) and this is it's Source Code
 
