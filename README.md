@@ -9,7 +9,7 @@ Is it Accurate? I'm not sure, I think it's not and if I can find the time to imp
 
 I ask that you not take this too seriously as a project, again I just find doing this amusing and I hope others do too.
 # Dependencies
-[atproto](https://pypi.org/project/atproto/)
-[python-dotenv](https://pypi.org/project/python-dotenv/)
-[keyboard](https://pypi.org/project/keyboard/)
-The [Vocab.DD](https://github.com/cia-foundation/TempleOS/blob/archive/Adam/God/Vocab.DD) file (This file can also be found within TempleOS itself, this is just a more convenient repository to obtain these files from)
+- [atproto](https://pypi.org/project/atproto/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/) 
+- [keyboard](https://pypi.org/project/keyboard/) 
+- [Vocab.DD](https://github.com/cia-foundation/TempleOS/blob/archive/Adam/God/Vocab.DD) (This file can also be found within TempleOS itself, this is just a more convenient repository to obtain this file from)
