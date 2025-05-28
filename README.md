@@ -4,14 +4,12 @@ The .env file used in this project is not included in this Repository.
 
 This Project was inspired by [TempleOS](https://templeos.org/)
 
-Why? I think it's because I thought it'd be funny/amusing.
+Why did I make this? I think it's because I thought it'd be funny/amusing.
 Is it Accurate? I'm not sure, I think it's not and if I can find the time to improve that I might, a lot of sources online have been convincing me this isn't accurate to the output of Terry A. Davis's GodSpeak Script that ran as a bash script (I've honestly never seen it), however I think his original script might have an output too verbose for Microblogging Social Networks like Bluesky to accept the output of (limited character counts and what not), so this is an unfortunate compromise to get the Word of God out on Social Media.
 
 I ask that you not take this too seriously as a project, again I just find doing this amusing and I hope others do too.
-
-- This Repository is Licensed under the MIT License, more information can be found in the LICENSE file contained within this Repository.
-- Vocab.DD is Sourced from the Temple OS Source Code of which is commonly known to have been released into the Public Domain.
 # Dependencies
 [atproto](https://pypi.org/project/atproto/)
 [python-dotenv](https://pypi.org/project/python-dotenv/)
 [keyboard](https://pypi.org/project/keyboard/)
+The [Vocab.DD](https://github.com/cia-foundation/TempleOS/blob/archive/Adam/God/Vocab.DD) file (This file can also be found within TempleOS itself, this is just a more convenient repository to obtain these files from)
