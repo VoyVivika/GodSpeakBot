@@ -4,9 +4,8 @@ from atproto import Client, client_utils
 import os
 from dotenv import load_dotenv, dotenv_values
 
-# BEGIN THE SETUP PREAMBLE!
-
-
+# this is probably over-engineered, I built it to be ran constantly so it could be self contained.
+# there are probably better ways of doing this, will looking into that at another time, this works.
 
 # resets hour to 20
 def restoreTime(_datetime: datetime.datetime):
