@@ -1,5 +1,5 @@
 # About
-This is generates a string of text using a randomly selected work from a Vocabulary file and uses this string to create a post on atproto. This Source Code is used to create posts on the [godspeakbot.bsky.social](godspeakbot.bsky.social) account on the Bluesky Social Network.
+This is generates a string of text using a randomly selected work from a Vocabulary file and uses this string to create a post on atproto. This Source Code is used to create posts on the [godspeakbot.bsky.social](https://godspeakbot.bsky.social) account on the Bluesky Social Network.
 The .env file used in this project is not included in this Repository.
 
 This Project was inspired by [TempleOS](https://templeos.org/)
